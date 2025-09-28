@@ -1,0 +1,72 @@
+.head{
+  text-align: center;
+  margin-top: 150px;
+}
+.app{
+  color: blue;
+}
+.signin{
+  border: 2px solid white;
+  padding: 20px;          
+  max-width: 400px;       
+  margin: 175px 200px 400px 650px;
+  background-color: aliceblue;
+  box-sizing: border-box;
+  width: 100%;
+}
+.welcome{
+  text-align: center;
+}
+.back{
+  color: blue;
+}
+.input{
+  padding: 10px;
+  width: 90%;
+}
+.btn{
+  font-size: medium;
+  padding: 10px;
+  width: 90%;
+  background-color: blue;
+  border: none;
+}
+.signup{
+  border: 2px solid white;  
+  padding: 20px;          
+  max-width: 400px;       
+  margin: 20px auto;
+  background-color: aliceblue;
+  box-sizing: border-box;
+  width: 100%;
+}
+.account{
+  color: blue;
+}
+.error{
+  color: red;
+}
+.detail{
+  text-align: center;
+}
+.wel{
+  color: blue;
+}
+.user{
+  text-align: left;
+  border: 2px solid white; 
+  padding: 20px;           
+  max-width: 400px;        
+  margin: 20px auto;
+  background-color: aliceblue;
+  box-sizing: border-box;
+  width: 100%;
+}
+.users{
+  padding: 10px;
+  background-color:white;
+  width: 90%;
+}
+.active {
+  color: green;
+}
