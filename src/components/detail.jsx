@@ -14,11 +14,8 @@ function DetailPage() {
                     <h2>Profile information</h2>
                     <p>Your acconut details and information</p>
                     <h3 className="users">Full Name: <br></br> {name}</h3>
-                    <h3 className="users"> :e-mail:  EmailAddress: <br></br>{email}</h3>
-                    <div className="users">
-                        <h3 >Account Status  </h3>
-                        <p className="active">Active</p>
-                    </div>
+                    <h3 className="users"> Email:  EmailAddress: <br></br>{email}</h3>
+                   
                 </div>
             </div>
         </>
